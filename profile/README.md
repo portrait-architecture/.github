@@ -15,7 +15,7 @@ Demonstrate real-world backend and frontend architectures through small but func
 | [`node-event-driven-commerce-api`](https://github.com/portrait-architecture/node-event-driven-commerce-api) | Node.js + TypeScript | React + TypeScript | Event-Driven + Hexagonal | Checkout & order processing |
 | [`python-clean-billing-api`](https://github.com/portrait-architecture/python-clean-billing-api) | Python FastAPI | React Native Expo | Clean Architecture | Subscription billing |
 | [`symfony-hexagonal-inventory-api`](https://github.com/portrait-architecture/symfony-hexagonal-inventory-api) | PHP Symfony | Angular + TypeScript | Hexagonal | Inventory & reservations |
-| [`symfony-cqrs-mongodb-analytics-api`](https://github.com/portrait-architecture/symfony-cqrs-mongodb-analytics-api) | PHP Symfony + MongoDB | TBD | CQRS + Read Models | Operational reporting |
+| `symfony-cqrs-mongodb-analytics-api` _(pending)_ | PHP Symfony + MongoDB | TBD | CQRS + Read Models | Operational reporting |
 
 ## Core Principles
 
