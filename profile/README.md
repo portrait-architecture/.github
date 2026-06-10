@@ -39,10 +39,15 @@ Demonstrate real-world backend and frontend architectures through small but func
 ## Tech Stack Variety
 
 **Backend**: PHP Symfony, Node.js, Python FastAPI
+
 **Frontend**: React, Vue 3, Angular, React Native Expo
+
 **Databases**: PostgreSQL, MongoDB
+
 **Queue**: RabbitMQ
+
 **Infrastructure**: Docker Compose, Makefile, GitHub Actions
+
 
 ## Governance
 
